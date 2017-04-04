@@ -1,0 +1,19 @@
+{
+  "name": "annekitchen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "node server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aries0d0f/AnneKitchen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aries0d0f/AnneKitchen/issues"
+  },
+  "homepage": "https://github.com/Aries0d0f/AnneKitchen#readme"
+}
